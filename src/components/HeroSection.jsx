@@ -93,7 +93,7 @@ export function HeroSection() {
           >
             <div className="overflow-hidden rounded-[1.6rem] border border-white/10 bg-black/35">
               <img
-                src="/portfolio/project-1.webp"
+                src="portfolio/project-1.webp"
                 alt="Banking performance dashboard preview"
                 width="960"
                 height="773"
@@ -115,7 +115,7 @@ export function HeroSection() {
           >
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.08),transparent_50%)]" />
             <img
-              src="/portfolio/taufik-portrait.webp"
+              src="portfolio/taufik-portrait.webp"
               alt="Portrait of Taufik Ismail"
               width="360"
               height="450"

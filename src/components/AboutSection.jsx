@@ -51,7 +51,7 @@ export function AboutSection() {
             <div className="grid gap-0 md:grid-cols-[0.42fr_0.58fr]">
               <div className="relative min-h-[22rem] overflow-hidden bg-[radial-gradient(circle_at_top,rgba(0,91,172,0.20),transparent_55%)]">
                 <img
-                  src="/portfolio/taufik-portrait.webp"
+                  src="portfolio/taufik-portrait.webp"
                   alt="Taufik Ismail portrait"
                   width="360"
                   height="450"
